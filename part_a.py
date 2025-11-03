@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PRG550 Assignment 02 – Part A (Unicode Maze ASCII Generator)."""
+"""Dax  PRG550 Assignment 02 – Part A (Unicode Maze ASCII Generator)."""
 
 import sys
 import importlib.util
